@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\Functionex\bin\Debug\net6.0\Functionex.exe
+C:\Users\IJAS\source\repos\Functionex\bin\Debug\net6.0\Functionex.deps.json
+C:\Users\IJAS\source\repos\Functionex\bin\Debug\net6.0\Functionex.runtimeconfig.json
+C:\Users\IJAS\source\repos\Functionex\bin\Debug\net6.0\Functionex.dll
+C:\Users\IJAS\source\repos\Functionex\bin\Debug\net6.0\Functionex.pdb
+C:\Users\IJAS\source\repos\Functionex\obj\Debug\net6.0\Functionex.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\Functionex\obj\Debug\net6.0\Functionex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\Functionex\obj\Debug\net6.0\Functionex.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\Functionex\obj\Debug\net6.0\Functionex.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\Functionex\obj\Debug\net6.0\Functionex.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\Functionex\obj\Debug\net6.0\Functionex.dll
+C:\Users\IJAS\source\repos\Functionex\obj\Debug\net6.0\refint\Functionex.dll
+C:\Users\IJAS\source\repos\Functionex\obj\Debug\net6.0\Functionex.pdb
+C:\Users\IJAS\source\repos\Functionex\obj\Debug\net6.0\Functionex.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\Functionex\obj\Debug\net6.0\ref\Functionex.dll

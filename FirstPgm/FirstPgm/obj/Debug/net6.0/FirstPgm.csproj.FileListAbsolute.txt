@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\bin\Debug\net6.0\FirstPgm.exe
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\bin\Debug\net6.0\FirstPgm.deps.json
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\bin\Debug\net6.0\FirstPgm.runtimeconfig.json
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\bin\Debug\net6.0\FirstPgm.dll
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\bin\Debug\net6.0\FirstPgm.pdb
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\obj\Debug\net6.0\FirstPgm.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\obj\Debug\net6.0\FirstPgm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\obj\Debug\net6.0\FirstPgm.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\obj\Debug\net6.0\FirstPgm.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\obj\Debug\net6.0\FirstPgm.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\obj\Debug\net6.0\FirstPgm.dll
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\obj\Debug\net6.0\refint\FirstPgm.dll
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\obj\Debug\net6.0\FirstPgm.pdb
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\obj\Debug\net6.0\FirstPgm.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\FirstPgm\FirstPgm\obj\Debug\net6.0\ref\FirstPgm.dll
